@@ -3,7 +3,7 @@ package mathoperation_test
 import (
 	"testing"
 
-	"github.com/pylinuxtech/go_lang_testing/mathoperation"
+	"github.com/PylinuxTech/go_lang_testing/mathoperation"
 )
 
 func TestAdd(t *testing.T) {
